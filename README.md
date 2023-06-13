@@ -1,5 +1,7 @@
 # coach
 
+ [Live deploy](https://find-a-coach-629de.web.app/coaches)
+
 ## Project setup
 ```
 yarn install
