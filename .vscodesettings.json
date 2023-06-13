@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "HTTPS_PROXY":"http://IP:7890",
+        "NODE_TLS_REJECT_UNAUTHORIZED": "0"
+    }
+}

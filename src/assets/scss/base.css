@@ -1,0 +1,54 @@
+.base-card {
+  padding: 1.5rem 2rem;
+  border-radius: 3px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+  border: none;
+}
+
+.base-btn {
+  padding: 0.6rem 1rem;
+  border-radius: 35px;
+  border: 1px solid #212529;
+  background-color: whitesmoke;
+  font-size: 10px;
+}
+
+.base-pannel {
+  border: 1px solid #212529;
+  border-radius: 10px;
+  padding: 2rem 1rem 1rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.base-pannel div {
+  margin-bottom: 0.8rem;
+}
+
+.base-pannel .name {
+  font-size: medium;
+  font-weight: 700;
+}
+
+.base-pannel .rate {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.base-pannel .bagel {
+  padding: 5px 10px;
+  border-radius: 15px;
+  color: whitesmoke;
+  margin-right: 0.5rem;
+}
+
+.base-pannel .bagel-frontend {
+  background-color: #5f3dc4;
+}
+
+.base-pannel .bagel-backend {
+  background-color: #9c36b5;
+}
+
+.base-pannel .bagel-career {
+  background-color: #c2255c;
+}
